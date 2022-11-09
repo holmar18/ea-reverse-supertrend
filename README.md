@@ -1,3 +1,3 @@
-#SuperTrend - Reverse Strategy
+# SuperTrend - Reverse Strategy
 
 cTrader platform EA for backtesting.
